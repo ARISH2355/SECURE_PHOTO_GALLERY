@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # secure_photo_gallery
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# SECURE_PHOTO_GALLERY
+Secure photo gallery screens
+>>>>>>> 15c043b4e28eebbe2cae580958e20a68c0165f16
